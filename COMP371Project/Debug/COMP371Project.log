@@ -1,0 +1,6 @@
+﻿  main.cpp
+  sphere.cpp
+c:\users\alway\source\repos\comp371project\comp371project\sphere.cpp(97): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+c:\users\alway\source\repos\comp371project\comp371project\sphere.cpp(105): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  Generating Code...
+  COMP371Project.vcxproj -> C:\Users\alway\source\repos\COMP371Project\Debug\COMP371Project.exe
